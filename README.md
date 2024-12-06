@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jakson Xavier, I'm a Software Developer at [@Rocketseat](https://github.com/rocketseat).
+My name is Jakson Xavier, I'm a Software Developer at [@Serasa Experian](https://serasaexperian.com.br/solucoes/agro).
 
 As a back-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript. Armed with a degree in Systems Analysis and Development from IFPI, I've honed my skills in programming, system design, and prototyping.
 
